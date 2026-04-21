@@ -15,7 +15,7 @@ Badr Sayed
 ---
 **Project Overview**
 --------
-Travel on a Budget is a smart travel planning application that prioritizes financial clarity from the start. The platform structures personalized trips inside and outside Egypt based on a predefined budget, accommodation level, and trip duration, ensuring that every recommendation remains realistic and achievable. By integrating estimated costs for transportation, lodging, food, and activities into one organized plan, the app transforms budget limitations into a clear, structured, and stress-free travel experience.
+Budgety is a smart travel planning application that prioritizes financial clarity from the start. The platform structures personalized trips inside and outside Egypt based on a predefined budget, accommodation level, and trip duration, ensuring that every recommendation remains realistic and achievable. By integrating estimated costs for transportation, lodging, food, and activities into one organized plan, the app transforms budget limitations into a clear, structured, and stress-free travel experience.
 ---
 **Project Objectives**
 ---------
